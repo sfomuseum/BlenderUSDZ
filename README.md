@@ -2,6 +2,9 @@
 
 USDZ file import and export plugin for [Blender](https://www.blender.org), that provides a simple method of importing and exporting models used with Augmented Reality applications.
 
+## Background
+
+This is a fork of [robmcrosby/BlenderUSDZ](https://github.com/sfomuseum/BlenderUSDZ/tree/main) which custom Python scripts for converting USDZ models. For background, please see the ["Experiments in Photogrammetry"](https://millsfield.sfomuseum.org/blog/2023/11/29/3d/) blog post. 
 
 ## Installation
 
